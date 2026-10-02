@@ -63,12 +63,10 @@
 - [RHVoice — Spomenka voice](https://github.com/RHVoice/spomenka-epo) — repository containing the Spomenka Esperanto voice data used by RHVoice. See the upstream project for licensing and usage conditions.
 ## Writing & Input
 * [PMEG — Writing, Unicode, H-skribo and X-kodo](https://bertilow.com/pmeg/) — practical information on writing Esperanto digitally, including Unicode and common substitute writing systems.
-* [Unicode CLDR — Keyboard Layouts](https://www.unicode.org/cldr/charts/49/keyboards/layouts/index.html) — standardized locale and keyboard data, including Esperanto (`eo`).
 ## Audio, Radio & Podcasts
 * [Muzaiko](https://muzaiko.info/) — Esperanto internet radio with music, programmes and other audio content.
 * [Pola Retradio](https://pola-retradio.org/) — Esperanto radio programme with news, culture and other audio materials.
 * [Varsovia Vento](https://www.podkasto.net/) — long-running Esperanto podcast with interviews, reports, music and recordings from Esperanto events.
-* [LibriVox — Esperanto](https://librivox.org/search?primary_key=20&search_category=language&search_page=1&search_form=get_results) — public-domain audiobooks recorded in Esperanto.
 ## Games & Interactive Media
 - [itch.io — Games available in Esperanto](https://itch.io/games/lang-eo) — searchable catalogue of games available in Esperanto, including games, translated projects and experimental language-related works.
 - [itch.io — Esperanto-tagged games](https://itch.io/games/tag-esperanto) — smaller catalogue of projects specifically tagged with `esperanto`.
@@ -77,7 +75,6 @@
 * [Libera Folio](https://liberafolio.org/) — independent online news source focused on Esperanto and the Esperanto movement.
 * [La Ondo de Esperanto](https://esperanto-ondo.ru/) — international Esperanto magazine covering culture, literature, language and the movement.
 * [Monato](https://www.monato.be/) — international magazine published in Esperanto.
-* [Scienca Revuo](https://aktuale.scienca-revuo.info/) — scientific publication and news in Esperanto.
 ## Websites, Events & Communities
 * [Eventa Servo](https://eventaservo.org/) — international calendar and directory of Esperanto events.
 * [Pasporta Servo](https://pasportaservo.org/) — international Esperanto hospitality and travel network.
