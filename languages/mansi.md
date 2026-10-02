@@ -3,7 +3,7 @@
 > Mansi belongs to the Ob-Ugric branch of the Uralic language family. Its internal classification differs between linguistic traditions and language catalogues.
 
 **Variety pages:**  
-[Northern Mansi](https://chatgpt.com/c/northern-mansi.md) · [Eastern Mansi](https://chatgpt.com/c/eastern-mansi.md) · [Western Mansi](https://chatgpt.com/c/western-mansi.md) · [Southern Mansi](https://chatgpt.com/c/southern-mansi.md)
+[Northern Mansi](northern-mansi.md) · [Eastern Mansi](eastern-mansi.md) · [Western Mansi](western-mansi.md) · [Southern Mansi](southern-mansi.md)
 
 The four pages above are GlossAstra's organizational pages for resource discovery. They do not imply that all four groups have the same classification level in external sources.
 
