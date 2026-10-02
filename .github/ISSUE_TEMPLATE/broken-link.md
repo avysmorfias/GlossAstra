@@ -2,7 +2,7 @@
 
 name: Report a broken link
 about: Report a link that no longer works or points to the wrong resource
--------------------------------------------------------------------------
+---
 
 ## Resource
 

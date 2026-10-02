@@ -191,9 +191,9 @@ The ELP records linked above do not include a separate Southern Mansi entry.
 
 |GlossAstra page|Russian model|Atlas|Glottolog|ISO 639-3|ELP|
 |---|---|---|---|---|---|
-|[Northern Mansi](https://chatgpt.com/c/northern-mansi.md)|Northern group|Northern Mansi|`mans1258`|`mns`|`8529`|
-|[Eastern Mansi](https://chatgpt.com/c/eastern-mansi.md)|Eastern group / Konda|Middle Mansi → Eastern group|`east2879` → `cent2322`|—|`8530`|
-|[Western Mansi](https://chatgpt.com/c/western-mansi.md)|Western group|Middle Mansi → Western group|`west2976` → `cent2322`|—|`8549`|
-|[Southern Mansi](https://chatgpt.com/c/southern-mansi.md)|Southern / Tavda group|Southern Mansi|`sout3253`|—|—|
+|[Northern Mansi](northern-mansi.md)|Northern group|Northern Mansi|`mans1258`|`mns`|`8529`|
+|[Eastern Mansi](eastern-mansi.md)|Eastern group / Konda|Middle Mansi → Eastern group|`east2879` → `cent2322`|—|`8530`|
+|[Western Mansi](western-mansi.md)|Western group|Middle Mansi → Western group|`west2976` → `cent2322`|—|`8549`|
+|[Southern Mansi](southern-mansi.md)|Southern / Tavda group|Southern Mansi|`sout3253`|—|—|
 
 `mns` is the ISO 639-3 code associated by Glottolog with Northern Mansi.

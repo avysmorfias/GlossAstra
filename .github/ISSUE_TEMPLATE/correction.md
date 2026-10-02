@@ -2,7 +2,7 @@
 
 name: Suggest a correction
 about: Report incorrect, outdated, unclear, or misleading information
----------------------------------------------------------------------
+---
 
 ## Affected page or resource
 

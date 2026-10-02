@@ -2,7 +2,7 @@
 
 name: Add a language
 about: Suggest a language that is currently missing from GlossAstra
--------------------------------------------------------------------
+---
 
 ## Language
 

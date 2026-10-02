@@ -2,7 +2,7 @@
 
 name: Add a resource
 about: Suggest a resource for an existing language page
--------------------------------------------------------
+---
 
 ## Resource
 
