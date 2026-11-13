@@ -7,8 +7,6 @@
 
 The four pages above are GlossAstra's organizational pages for resource discovery. They do not imply that all four groups have the same classification level in external sources.
 
-**Last reviewed:** 2026-10-02
-
 ---
 ## Classification at a glance
 
