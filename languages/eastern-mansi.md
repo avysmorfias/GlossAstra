@@ -38,22 +38,14 @@ Eastern Mansi
 
 ## Language Standard, Grammar & Reference
 
-* [Eastern Mansi (Konda) Grammar](https://babel.gwi.uni-muenchen.de/media/downloads/grammar/EasternMansi/EasternMansiGrammar.pdf) — Ulla-Maija Forsberg (2007), a detailed grammatical description of Middle and Lower Konda Mansi based primarily on texts and grammatical notes collected by Artturi Kannisto.
+* [Eastern Mansi (Konda) Grammar](https://babel.gwi.uni-muenchen.de/media/downloads/grammar/EasternMansi/EasternMansiGrammar.pdf) — Ulla-Maija Forsberg (2007), a grammatical description of Middle and Lower Konda Mansi based primarily on texts and grammatical notes collected by Artturi Kannisto. (Middle Konda, Lower Konda)
 
 ## Dictionaries & Lexical Resources
-
-* [Mansi–Russian Dictionary (Konda Dialect)](https://ouipiir.ru/content/%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C) — N. I. Bogdanova and E. A. Kuzakova, *Mansi–Russian Dictionary (Konda Dialect of Mansi)*, published in 2001. A [bibliographic record](https://rusneb.ru/catalog/010003_000061_ac0fe0cc6d9fa8bb0fd2f73cdf96669b/) is available from the National Electronic Library.
-
+- [Mansi–Russian Dictionary (Konda Dialect)](https://ouipiir.ru/content/%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C) (*Мансийско-русский словарь*), сост. Е. А. Кузакова, отв. за вып. Н. И. Богданова, 2001 (Konda)
+- [Dictionary of Mansi Toponyms (Konda River System)](https://ouipiir.ru/content/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C-%D1%82%D0%BE%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%BE%D0%B2-%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D1%80%D0%B5%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D0%B4%D0%B0) (*Словарь топонимов мансийского языка (в системе реки Конда)*), авт.-сост. Т. Д. Слинкина, 2024 (Konda)
 ## Books, Texts & Literature
-
 ### Historical and Religious Texts
-
-- [G. Popov: Das Evangelium Matthäi in den Dialect der kondischen Wogulen im Gouvernement Tobolsk](https://www.finna.fi/Record/fikka.90892) — Translation of the Gospel of Matthew into Konda Mansi by G. Popov. Published in London in 1868. The catalogue record lists 116 pages. **Dialect: Konda (Eastern Mansi).**
-
-### Specialized and Thematic Dictionaries
-
-- [Dictionary of Mansi Toponyms (in the Konda River System)](https://ouipiir.ru/content/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C-%D1%82%D0%BE%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%BE%D0%B2-%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D1%80%D0%B5%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D0%B4%D0%B0) — Slinkina, 2024. A specialized dictionary documenting Mansi toponyms in the Konda River system. Its regional focus does not by itself establish a specific dialect affiliation.
-
+- [The Gospel of Matthew in the Konda Dialect of the Voguls of Tobolsk Governorate](https://www.finna.fi/Record/fikka.90892) (*Das Evangelium Matthäi in den Dialect der kondischen Wogulen im Guvernement Tobolsk*), пер. Г. Попов, 1868 (Konda)
 ## Corpora & Language Data
 
 * [OUDB Eastern Mansi Corpus](https://www.babel.gwi.uni-muenchen.de/index.php?abfrage=EM_corpus&language=en) — corpus of Eastern Mansi texts from the collections of Munkácsi and Kannisto. The corpus consists mainly of Middle Konda material and also includes one Upper Konda text and one Lower Konda text, with IPA transcriptions and English translations.
