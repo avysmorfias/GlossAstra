@@ -46,6 +46,7 @@
 ### Courses & Learning Platforms
 
 * [Lernu!](https://lernu.net/?hl=ru) — multilingual platform with free Esperanto courses, interactive lessons, grammar, media, a dictionary, a forum and teaching materials. The link opens the Russian-language interface.
+* [Эсперанто-гавань](https://esperanto.su/) — Russian-language learning website with grammar explanations, interactive word-building and vocabulary games, and supplementary materials for the Esperanto textbook by D. A. Shevchenko and A. O. Striganova.
 * [Edukado.net](https://edukado.net/) — resource centre for Esperanto teaching, with teaching materials, courses, examinations and a professional community.
 * [Kurso de Esperanto](https://www.kurso.com.br/) — free downloadable multimedia self-study program covering the basics of Esperanto in 12 lessons, with pronunciation and listening exercises, songs and other practice activities. Downloads are offered for Windows, macOS and Linux.
 * [Esperanto 12 — Learn Esperanto in 12 Hours](https://esperanto12.net/ru/) — free multilingual introductory course based on the Zagreb method. It focuses on 500 essential words and basic conversational skills and can be used without registration.
